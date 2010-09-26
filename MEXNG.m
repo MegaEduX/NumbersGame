@@ -11,7 +11,6 @@
 
 #import "MEXNG.h"
 
-
 @implementation MEXNG
 
 - (int)money {

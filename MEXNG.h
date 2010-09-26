@@ -9,8 +9,7 @@
 //	commercial projects as long as you give credit to the author.
 //
 
-#import <Cocoa/Cocoa.h>
-
+#import <Foundation/Foundation.h>
 
 @interface MEXNG : NSObject {
 	int money;
